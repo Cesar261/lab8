@@ -12,9 +12,9 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-
+Cesar Garcia, Rafael Jacobo
 ## Summary
-
+In this lab, we implemented, and simulated Multiplexers (MUX) and Demultiplexers (DEMUX) in Structural Verilog using procedural blocks. We gained hands-on experience with data routing, parallel/serial data conversions, and using multiplexers as universal logic generators via Shannon's Expansion Theorem.
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
